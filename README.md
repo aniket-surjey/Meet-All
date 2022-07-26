@@ -70,8 +70,6 @@ Start the Client
 ![](https://github.com/Aniket-Surjey/Talk-A-Tive-Chat-App/blob/main/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
 ![](https://github.com/Aniket-Surjey/Talk-A-Tive-Chat-App/blob/main/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/Aniket-Surjey/Talk-A-Tive-Chat-App/blob/main/screenshots/profile.PNG)
 ## Made By
 
 - [@Aniket-Surjey](https://github.com/Aniket-Surjey)
