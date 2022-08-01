@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-![](https://github.com/aniket-surjey/Meet-All/blob/main/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/aniket-surjey/Meet-All/main/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
 Clone the project
