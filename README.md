@@ -19,7 +19,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 Clone the project
 
 ```bash
-  git clone https://github.com/Aniket-Surjey/Meet-All.git
+  git clone https://github.com/aniket-surjey/Meet-All.git
 ```
 
 Go to the project directory
@@ -72,6 +72,6 @@ Start the Client
 ![](https://github.com/Aniket-Surjey/Talk-A-Tive-Chat-App/blob/main/screenshots/add%20rem.PNG)
 ## Made By
 
-- [@Aniket-Surjey](https://github.com/Aniket-Surjey)
+- [@Aniket-Surjey](https://github.com/aniket-surjey)
 
   
